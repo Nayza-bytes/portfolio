@@ -1,14 +1,14 @@
 import React from 'react';
 import Header from './Header';
 import Home from './Home';
-import Projects from './Projects';
+import Project from './Projects';
 
 function App() {
   return (
-    <div>
+    <div className='overflow-hidden'>
       <Header />
       <Home />
-      <Projects />
+      <Project/>
     </div>
   );
 }
