@@ -1,4 +1,4 @@
-import Card from "./components/cards";
+import Card from "../components/cards";
 import nd from "./assets/nayzasdungeons.png";
 import comingsoon from "./assets/comingsoon.jpg";
 import website from"./assets/website.png";

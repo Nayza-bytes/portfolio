@@ -1,7 +1,7 @@
 import React from 'react';
-import Header from './Header';
-import Home from './Home';
-import Project from './Projects';
+import Header from './sections/Header';
+import Home from './sections/Home';
+import Project from './sections/Projects';
 
 function App() {
   return (
