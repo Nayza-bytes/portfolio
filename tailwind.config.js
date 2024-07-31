@@ -9,7 +9,8 @@ module.exports = {
         'bg_gray': {
           100: '#2c2e31',
           200: '#323437',
-          300: '#646669'
+          300: '#646669',
+          400: '#161718'
         },
         'orange_primary': '#e2b714',
         'red_secondary': {

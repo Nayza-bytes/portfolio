@@ -5,8 +5,8 @@ const Header = () => {
         <div class="top-0 left-0 w-screen h-16 m-0 flex flex-row bg-bg_gray-100 text-text_color-100">
             <div className="flex justify-center items-center pl-32">
                 <a class={linkStyle} href="#home">Home</a>
-                <a class={linkStyle} href="#">Project</a>
-                <a class={linkStyle} href="#">Contact</a>
+                <a class={linkStyle} href="#projects">Project</a>
+                <a class={linkStyle} href="#contact">Contact</a>
             </div>
         </div>
     )
