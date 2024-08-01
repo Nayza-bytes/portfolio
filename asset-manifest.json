@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Nayza-bytes/portfolio/static/css/main.6d4424ed.css",
+    "main.js": "/Nayza-bytes/portfolio/static/js/main.e2a1a225.js",
+    "static/js/453.1407b060.chunk.js": "/Nayza-bytes/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/comingsoon.jpg": "/Nayza-bytes/portfolio/static/media/comingsoon.73dec87e65fd7bf6e944.jpg",
+    "static/media/nayzasdungeons.png": "/Nayza-bytes/portfolio/static/media/nayzasdungeons.e377d7d36e379b157257.png",
+    "static/media/website.png": "/Nayza-bytes/portfolio/static/media/website.1187dd9925c6e1a640f6.png",
+    "index.html": "/Nayza-bytes/portfolio/index.html",
+    "main.6d4424ed.css.map": "/Nayza-bytes/portfolio/static/css/main.6d4424ed.css.map",
+    "main.e2a1a225.js.map": "/Nayza-bytes/portfolio/static/js/main.e2a1a225.js.map",
+    "453.1407b060.chunk.js.map": "/Nayza-bytes/portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d4424ed.css",
+    "static/js/main.e2a1a225.js"
+  ]
+}
